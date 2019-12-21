@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3acf2988-95bc-4214-b8f5-2dcf3f9d18a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1LvenP4BrjPztaVKSTpbs22dC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CBCXor" />
+      <module name="Crypto programming assignment 1.3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3acf2988-95bc-4214-b8f5-2dcf3f9d18a7" name="Default Changelist" comment="" />
+      <created>1576415886250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576415886250</updated>
+      <workItem from="1576415890563" duration="2231000" />
+      <workItem from="1576581421976" duration="610000" />
+      <workItem from="1576582543044" duration="1351000" />
+      <workItem from="1576764654562" duration="610000" />
+      <workItem from="1576769412157" duration="2125000" />
+      <workItem from="1576935613550" duration="8474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="134" width="1275" height="854" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576937766235">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="409" y="134" width="1275" height="854" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1018@0.0.1920.1018" timestamp="1576937766235" />
+    <state x="731" y="386" width="459" height="263" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576764663336">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="731" y="386" width="459" height="263" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1018@0.0.1920.1018" timestamp="1576764663336" />
+    <state width="1850" height="234" key="GridCell.Tab.0.bottom" timestamp="1576956533069">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state width="1850" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1018@0.0.1920.1018" timestamp="1576956533069" />
+    <state width="1850" height="234" key="GridCell.Tab.0.center" timestamp="1576956533069">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state width="1850" height="234" key="GridCell.Tab.0.center/0.0.1920.1018@0.0.1920.1018" timestamp="1576956533069" />
+    <state width="1850" height="234" key="GridCell.Tab.0.left" timestamp="1576956533069">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state width="1850" height="234" key="GridCell.Tab.0.left/0.0.1920.1018@0.0.1920.1018" timestamp="1576956533069" />
+    <state width="1850" height="234" key="GridCell.Tab.0.right" timestamp="1576956533069">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state width="1850" height="234" key="GridCell.Tab.0.right/0.0.1920.1018@0.0.1920.1018" timestamp="1576956533069" />
+    <state x="201" y="0" key="SettingsEditor" timestamp="1576582853179">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="201" y="0" key="SettingsEditor/0.0.1920.1018@0.0.1920.1018" timestamp="1576582853179" />
+    <state x="475" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1576935615585">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="475" y="259" key="com.intellij.ide.util.TipDialog/0.0.1920.1018@0.0.1920.1018" timestamp="1576935615585" />
+    <state x="21" y="0" width="1877" height="1024" key="new project wizard" timestamp="1576422008892">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="21" y="0" width="1877" height="1024" key="new project wizard/0.0.1920.1018@0.0.1920.1018" timestamp="1576422008892" />
+  </component>
+</project>
